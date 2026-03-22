@@ -36,7 +36,7 @@
 ## 🖥️ 版本一：Groq_API 版（推薦）
 
 ### Colab 開啟連結
-[![Open In Colab](https://colab.research.google.com/github/Lucas66666677/Simple-Automatic-English-TA/blob/main/%E2%80%9C%E8%8B%B1%E6%96%87%E5%82%99%E8%AA%B2%E5%8A%A9%E6%89%8B%EF%BC%88Groq_API%EF%BC%89%E2%80%9D.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lucas66666677/Simple-Automatic-English-TA/blob/main/%E2%80%9C%E8%8B%B1%E6%96%87%E5%82%99%E8%AA%B2%E5%8A%A9%E6%89%8B%EF%BC%88Groq_API%EF%BC%89%E2%80%9D.ipynb)
 
 ### 使用前準備
 1. 申請 Groq API Key
