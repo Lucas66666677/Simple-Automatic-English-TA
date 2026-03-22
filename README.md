@@ -1,4 +1,4 @@
-# Lecturas — 英文備課助手
+# 📖 Lecturas — 英文備課助手
 
 這是一個用來幫老師快速備課的 AI 工具，可讀取 **PDF、圖片、貼上文字**，自動生成：
 
@@ -11,12 +11,12 @@
 
 | 版本 | 說明 | 推薦程度 |
 |------|------|----------|
-| **Groq_API 版** | 使用 Groq API，速度快、較穩定 | 推薦 |
+| **Groq_API 版** | 使用 Groq API，速度快、較穩定 | ✅ 推薦 |
 | **Ollama 版** | 使用本機 Ollama，安裝較麻煩且速度較慢 | 不建議日常使用 |
 
 ---
 
-## 功能特色
+## ✨ 功能特色
 
 - 支援上傳 **PDF**
 - 支援上傳 **圖片**
@@ -33,10 +33,10 @@
 
 ---
 
-## 版本一：Groq_API 版（推薦）
+## 🖥️ 版本一：Groq_API 版（推薦）
 
 ### Colab 開啟連結
-[![Open In Colab](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Groq_API.ipynb)
+[![Open In Colab]()
 
 ### 使用前準備
 1. 申請 Groq API Key
@@ -56,11 +56,10 @@
 
 ---
 
-## 版本二：Ollama 版
+## 🖥️ 版本二：Ollama 版
 
 ### Colab 開啟連結
-[![Open In Colab](https://colab.research.google.com/github/Lucas66666677/Simple-Automatic-English-TA/blob/main/%E8%8B%B1%E6%96%87%E5%82%99%E8%AA%B2%E5%8A%A9%E6%89%8B%EF%BC%88Ollama%EF%BC%89%EF%BC%88Ollama%E7%94%9F%E6%88%90%E5%A4%AA%E6%85%A2%EF%BC%8C%E4%B8%8D%E5%BB%BA%E8%AD%B0%EF%BC%89.ipynb)
-
+[![Open In Colab]()
 ### 注意事項
 - 這個版本需要在 Colab 中安裝 Ollama
 - 啟動時間較長
@@ -77,7 +76,7 @@
 
 ---
 
-## 輸出說明
+## 📌 輸出說明
 
 ### 1. 板書
 會依教材內容自動整理成適合上課使用的結構，像是：
@@ -93,7 +92,7 @@
 
 ---
 
-## 執行環境需求
+## 🛠️ 執行環境需求
 
 ### Groq_API 版
 - Python 3.10+
@@ -114,7 +113,7 @@
 
 ---
 
-## 檔案結構建議
+## 📂 檔案結構建議
 
 ```text
 .
