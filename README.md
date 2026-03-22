@@ -59,7 +59,7 @@
 ## 🖥️ 版本二：Ollama 版
 
 ### Colab 開啟連結
-[![Open In Colab]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lucas66666677/Simple-Automatic-English-TA/blob/main/%E8%8B%B1%E6%96%87%E5%82%99%E8%AA%B2%E5%8A%A9%E6%89%8B%EF%BC%88Ollama%EF%BC%89%EF%BC%88Ollama%E7%94%9F%E6%88%90%E5%A4%AA%E6%85%A2%EF%BC%8C%E4%B8%8D%E5%BB%BA%E8%AD%B0%EF%BC%89.ipynb)
 ### 注意事項
 - 這個版本需要在 Colab 中安裝 Ollama
 - 啟動時間較長
